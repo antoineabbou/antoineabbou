@@ -85,6 +85,6 @@ I am a front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - Portfolio of <a href="https://amandineloiseleur.com/" target="_blank" rel="noopener">Amandine Loiseleur</a>
 - <a href="https://presentspace.com/" target="_blank" rel="noopener">Present Space Magazine</a>
 
-##### NFTS : 
+##### NFTs : 
 
 Some stuff I did on [Fx(hash)](https://www.fxhash.xyz/u/Aeynox/)
