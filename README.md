@@ -1,13 +1,4 @@
-
-<p align="center"><img src="https://antoineabbou.fr/croco.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/antoine-abbou-159757110/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://twitter.com/antoineabbou/"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-</p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=antoineabbou&style=flat-square&color=lightgrey" alt=""></p>
-
-<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello there, I'm Antoine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -88,3 +79,7 @@ I am a front end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ##### NFTs : 
 
 Some stuff I did on [Fx(hash)](https://www.fxhash.xyz/u/Aeynox/)
+
+--- 
+
+<img src="https://komarev.com/ghpvc/?username=antoineabbou&style=flat-square&color=lightgrey" alt="">
