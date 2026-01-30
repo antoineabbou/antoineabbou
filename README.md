@@ -11,6 +11,9 @@ I am a front end developer from Paris, France.
 
 ##### At Upian : 
 
+- <a href="https://cartofaf.streetpress.com/" target="_blank" rel="noopener">StreetPress - Cartofaf </a> 
+- <a href="https://www.lequipe.fr/explore/wf150-quel-sportif-etes-vous/" target="_blank" rel="noopener">L'Équipe Explore - Quel sportif êtes vous ?</a>
+- <a href="https://harissa.upian.com/" target="_blank" rel="noopener">Harissa Potter</a>
 - <a href="https://herbiers.institutdefrance.fr/" target="_blank" rel="noopener">L'inventaire du monde</a>
 - PWAs and mobile apps of <a href="https://app.brief.me" target="_blank" rel="noopener">Brief.me</a> — <a href="https://app.brief.eco" target="_blank" rel="noopener">Brief.eco</a> — <a href="https://app.brief.science" target="_blank" rel="noopener">Brief.science</a> 
 - <a href="https://www.parlonsengagement.fr/" target="_blank" rel="noopener">Parlons engagement</a>
